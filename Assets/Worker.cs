@@ -8,7 +8,6 @@ public class Worker : MonoBehaviour
     public int count;
     public int price;
     public int cps;
-
     public Button button;
 
     public TMP_Text countText;
